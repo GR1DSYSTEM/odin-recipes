@@ -1,0 +1,27 @@
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+body {
+    background-color: #FFFAFF;
+    color: #161925;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif    ;
+}
+
+h1 {
+    color: #E3B261;
+    font-family: "Courier New", arial, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    margin: 0;
+}
+
+.menu li {
+    font-size: 25px;
+}
+
+.foodimg {
+    height: 405px;
+    width: auto;
+}
